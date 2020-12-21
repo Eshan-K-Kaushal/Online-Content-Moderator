@@ -2,7 +2,7 @@
 """
 Created on Sat Aug 15 22:37:00 2020
 
-@author: jagma
+@author: jag
 """
 import pandas as pd
 from clean_text import process_message
